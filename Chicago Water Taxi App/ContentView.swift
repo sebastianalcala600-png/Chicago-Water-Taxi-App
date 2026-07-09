@@ -22,6 +22,7 @@ struct ContentView: View {
             
             print("hi")
             print("This is Aarnav")
+            print("Hello World")
             
         }
         .padding()
