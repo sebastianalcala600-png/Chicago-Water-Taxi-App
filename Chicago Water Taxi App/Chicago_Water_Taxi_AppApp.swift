@@ -12,6 +12,8 @@ struct Chicago_Water_Taxi_AppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+               
         }
     }
 }
